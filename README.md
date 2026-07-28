@@ -15,23 +15,23 @@ To run the code, you need to install **[Julia](https://julialang.org/)** (v1.12.
 
 * [Agents](https://juliadynamics.github.io/Agents.jl/stable/) - Version 7.0.3
 * [ArgParse](https://argparsejl.readthedocs.io/en/latest/argparse.html) - Version 1.2.0
-* [CSV] (https://csv.juliadata.org/stable/) - Version 0.10.16
-* [Colors] (https://juliagraphics.github.io/Colors.jl/stable/) - Version 0.13.1
+* [CSV](https://csv.juliadata.org/stable/) - Version 0.10.16
+* [Colors](https://juliagraphics.github.io/Colors.jl/stable/) - Version 0.13.1
 * [DataFrames](https://juliadata.github.io/) - Version 1.8.2
-* [Dates] (https://docs.julialang.org/en/v1/stdlib/Dates/) - Version 1.11.0
+* [Dates](https://docs.julialang.org/en/v1/stdlib/Dates/) - Version 1.11.0
 * [DataStructures](https://juliacollections.github.io/DataStructures.jl/latest/) - Version 0.18.22
-* [Distributed] (https://github.com/JuliaLang/Distributed.jl) - Version 1.11.0
-* [Distributions] (https://juliastats.org/Distributions.jl/stable/) - Version 0.25.130
-* [LinearAlgebra] (https://docs.julialang.org/en/v1/stdlib/LinearAlgebra/) - Version 1.12.0
+* [Distributed](https://github.com/JuliaLang/Distributed.jl) - Version 1.11.0
+* [Distributions](https://juliastats.org/Distributions.jl/stable/) - Version 0.25.130
+* [LinearAlgebra](https://docs.julialang.org/en/v1/stdlib/LinearAlgebra/) - Version 1.12.0
 * [LsqFit](https://julianlsolvers.github.io/LsqFit.jl/latest/tutorial/) - Version 0.16.1
 * [Random](https://docs.julialang.org/en/v1/stdlib/Random/#Random.Random) - Version 1.11.0
 * [Plots](http://docs.juliaplots.org/) - Version 1.41.6
-* [Serialization] (https://docs.julialang.org/en/v1/stdlib/Serialization/) - Version 1.11.0
-* [SkipNan] (https://alexriss.github.io/SkipNan.jl/stable/) - Version 0.2.0
+* [Serialization](https://docs.julialang.org/en/v1/stdlib/Serialization/) - Version 1.11.0
+* [SkipNan](https://alexriss.github.io/SkipNan.jl/stable/) - Version 0.2.0
 * [Statistics](https://docs.julialang.org/en/v1/stdlib/Statistics/) - Version 1.11.1
-* [StatsBase] (https://github.com/JuliaStats/StatsBase.jl) - Version 0.33.21
+* [StatsBase](https://github.com/JuliaStats/StatsBase.jl) - Version 0.33.21
 * [StatsPlots](https://github.com/JuliaPlots/StatsPlots.jl) - Version 0.15.8
-* [TensorCast] (https://juliapackages.com/p/tensorcast) - Version 0.4.9
+* [TensorCast](https://juliapackages.com/p/tensorcast) - Version 0.4.9
 
 
 
